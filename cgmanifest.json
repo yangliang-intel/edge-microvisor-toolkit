@@ -30435,6 +30435,16 @@
       "component": {
         "type": "other",
         "other": {
+          "name": "virt-manager",
+          "version": "4.1.0",
+          "downloadUrl": "https://github.com/virt-manager/virt-manager/releases/download/v4.1.0/virt-manager-4.1.0.tar.gz"
+        }
+      }
+    },
+    {
+      "component": {
+        "type": "other",
+        "other": {
           "name": "vala",
           "version": "0.56.14",
           "downloadUrl": "http://download.gnome.org/sources/vala/0.56/vala-0.56.14.tar.xz"

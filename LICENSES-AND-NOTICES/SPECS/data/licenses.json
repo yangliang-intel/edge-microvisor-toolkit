@@ -2171,6 +2171,7 @@
                 "virglrenderer",
                 "virt-p2v",
                 "virt-top",
+                "virt-install",
                 "virt-what",
                 "virt-who",
                 "vmem",
